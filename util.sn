@@ -1,0 +1,20 @@
+// util.sn
+
+// İki sayıyı toplar
+fonksiyon topla(a, b) {
+    döndür a + b;
+}
+
+// Bir dizi elemanlarını toplar
+fonksiyon diziToplam(dizi) {
+    var toplam = 0;
+    her eleman dizi {
+        toplam = toplam + eleman;
+    }
+    döndür toplam;
+}
+
+// Bir metni ters çevirir
+fonksiyon tersCevir(metin) {
+    döndür metin.tersCevir();
+}

@@ -1,0 +1,7 @@
+# Python benzeri bir yapı
+if koşul:
+    print("Merhaba, Dünya!")
+else:
+    print("Hoş geldiniz!")
+
+# Benzer bir yapıyı kendi dilinizde düşünün ve tasarlayın.

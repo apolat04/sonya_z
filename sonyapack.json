@@ -1,0 +1,11 @@
+{
+    "name": "example-package",
+    "version": "1.0.0",
+    "dependencies": {
+        "dependency-package": "1.2.0"
+    },
+    "files": [
+        "main.sn",
+        "util.sn"
+    ]
+}

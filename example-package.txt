@@ -1,0 +1,5 @@
+example-package
+---------------
+Bu paket, Sonya dilinde örnek bir pakettir.
+- main.sn: Temel işlevselliği sağlar.
+- util.sn: Yardımcı işlevselliği içerir.
